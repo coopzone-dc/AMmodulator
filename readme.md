@@ -1,4 +1,4 @@
-Thses are the files for a small 
+These are the files for a small 
 AM modulator / transmitter.
 Main info:
 
